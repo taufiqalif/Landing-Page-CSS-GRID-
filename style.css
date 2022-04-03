@@ -105,6 +105,10 @@ body{
   font-size: 0.9em;
 }
 
+.menu a:hover{
+  background-color: rgba(139, 138, 138, 0.5);
+}
+
 /* hamburger menu */
 .menu-toggle{
   display: none;
